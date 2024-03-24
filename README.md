@@ -1,4 +1,4 @@
-# Board-Game-Trad-Trail
+# Board-Game-Triad-Trail
 
 
 Triad Trail is a treasure hunt race game played by 3 people. Each player represents one of the following characters: Druid,Warlock and Barbarian. These characters have their owncharacter traits. The board consists of 4 different regions withdifferent features. The board has different locations whereplayers need to perform different tasks. The last region has thetreasure. When one of the players reaches the treasure withenough keys, the game ends.
